@@ -1,1 +1,1 @@
-<h1> Hello, Welcome to Pradyumna Technologies !!! </h1>
+<h1> Hello, Welcome to Pradyumna DevOps Training !!! </h1>
